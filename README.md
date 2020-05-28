@@ -1,5 +1,6 @@
 # Lorenz
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jiedongever/Lorenz.git/master?filepath=Lorenz.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/git@github.com:jiedongever/Lorenz.git/master?urlpath=lab)
+
 
 # Useful commands:
 
