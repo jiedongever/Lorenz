@@ -1,4 +1,4 @@
 #!/bin/bash
 
-./bin/gen -deploy many-tasks.cpp many-tasks.dsg.cpp
-./bin/skel -i many-tasks.cpp -s many-tasks.dsg.cpp
+./bin/gen -deploy Lorenz.cpp Lorenz.dsg.cpp
+./bin/skel -i Lorenz.cpp -s Lorenz.dsg.cpp
