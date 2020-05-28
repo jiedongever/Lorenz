@@ -4,9 +4,9 @@
 
 # Useful commands:
 
-__for preprocessing:__ ~/many-tasks.sh
+__for preprocessing:__ ~/Lorenz.sh
 
-__for compilation:__   g++ ~/many-tasks.cpp -l curl -o many-tasks
+__for compilation:__   g++ ~/Lorenz.cpp -l curl -o Lorenz
 
-__for execution:__     ~/many-tasks
+__for execution:__     ~/Lorenz
 
